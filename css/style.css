@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* 1 */
+body {
+    background: 50px 50px repeat #B4B4B4 url(../img/pink_flowers.webp);
+}
+
+/* 10 */
+.wrapper {
+width: 89%;
+margin: 0 auto 26px;
+border-radius: 2px;
+background: #FFF;
+font-family: Roboto;
+}
+
+/* 10 */
+.header {
+    margin: 0 4% 57px;
+}
+
+/* 10 */
+.header__heading {
+    font-size: 2rem;
+    padding: 96px 0 46px;
+}
+
+/* 10 */
+.header__heading,
+.section__text,
+.footer__text,
+.section__text--mod,
+.link {
+    font-weight: 400;
+}
+
+/* 10 */
+.header__heading,
+.section__heading,
+.section__text,
+.footer__text,
+.section__text--mod,
+.section__text--spec,
+.menu__heading,
+.link {
+    font-style: normal;
+    line-height: normal;
+}
+
+/* 10 */
+.header__picture {
+    padding: 14px 13px;
+    border-radius: 2px;
+    border: 1px solid #000;
+}
+
+/* 10 */
+.picture__img {
+    width: 100%;
+}
+
+/* 10 */
+.main {
+    margin: 0 4% 0;
+}
+
+/* 10 */
+.section--mod {
+    display: flex;
+}
+
+/* 10 */
+.section__heading {
+    font-size: 1.5rem;
+    padding: 0 0 15px 0;
+}
+
+/* 10 */
+.section__text,
+.footer__text,
+.section__text--mod {
+    text-indent: 2.5rem;
+}
+
+/* 10 */
+.section__text,
+.footer__text,
+.section__text--mod,
+.section__text--spec,
+.menu__heading,
+.link  {
+    color: #1D1B1B;
+    font-size: 1rem;
+}
+
+/* 10 */
+.section__text--mod {
+    padding-top: 36px;   
+}
+
+/* 10 */
+.section__text--spec {
+    padding-top: 6px; 
+}
+
+/* 10 */
+.menu {
+    margin-left: 3px;
+    width: 13%;
+    border-radius: 2px 15px;
+    background: #D7D7D7;
+}
+
+/* 10 */
+.menu__heading {
+    padding: 26px 88px 24px 29px;
+}
+
+/* 10 */
+.menu__heading,
+.link {
+    color: #000;
+    font-family: Arial;
+}
+
+/* 10 */
+.menu__list {
+    padding: 0 0 29px 29px;
+}
+
+/* 10 */
+.link {
+    text-decoration: none;
+}
+
+/* 10 */
+.link:hover {
+    text-decoration: underline;
+}
+
+/* 10 */
+.footer__img {
+    width: 79%;
+    background: url(../img/back.gif) 50% / contain no-repeat;
+    margin: 35px 0 18px 4%;
+}
+
+/* 10 */
+.footer__text {
+    display: inline-block;
+    margin: 7px 27%;
+}
+
+/* 10 */
+.spec,
+.special,
+.link:hover,
+.menu__heading,
+.section__heading {
+    font-weight: 700;
+}
+
+/* 10 */
+.crossline {
+    text-decoration-line: line-through;
+}
+
+/* 10 */
+.view,
+.link:hover,
+.header__heading,
+.section__heading {
+    color: #A11414;
+}
+
+/* 10 */
+.uper,
+.special,
+.menu__heading {
+    text-transform: uppercase;
+}
