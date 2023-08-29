@@ -120,28 +120,28 @@ font-family: Roboto;
 
 /* 10 */
 .menu__heading,
-.link {
+.nav__link {
     color: #000;
     font-family: Arial;
 }
 
 /* 10 */
-.menu__list {
+.nav {
     padding: 0 0 29px 29px;
 }
 
 /* 10 */
-.link {
+.nav__link {
     text-decoration: none;
 }
 
 /* 10 */
-.link:hover {
+.nav__link:hover {
     text-decoration: underline;
 }
 
 /* 10 */
-.footer__img {
+.footer__line {
     width: 79%;
     background: url(../img/back.gif) 50% / contain no-repeat;
     margin: 35px 0 18px 4%;
@@ -156,27 +156,27 @@ font-family: Roboto;
 /* 10 */
 .spec,
 .special,
-.link:hover,
+.nav__link:hover,
 .menu__heading,
 .section__heading {
     font-weight: 700;
 }
 
 /* 10 */
-.crossline {
+.article__text--add {
     text-decoration-line: line-through;
 }
 
 /* 10 */
 .span_color,
-.link:hover,
+.nav__link:hover,
 .header__heading,
 .section__heading {
     color: #A11414;
 }
 
 /* 10 */
-.uper,
+.article__text--spec,
 .special,
 .menu__heading {
     text-transform: uppercase;
