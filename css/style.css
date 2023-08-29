@@ -9,7 +9,7 @@ body {
 
 /* 10 */
 .wrapper {
-width: 89%;
+width: 88%;
 margin: 0 auto 26px;
 border-radius: 2px;
 background: #FFF;
@@ -108,7 +108,7 @@ font-family: Roboto;
 /* 10 */
 .menu {
     margin-left: 3px;
-    width: 13%;
+    width: 14%;
     border-radius: 2px 15px;
     background: #D7D7D7;
 }
